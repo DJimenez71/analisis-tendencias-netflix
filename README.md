@@ -33,5 +33,5 @@ Determinar qué tipo de contenido está captando mayor atención en la plataform
 *   Dataset: [W2TCH Netflix Pulse](https://www.kaggle.com/datasets/davidmorgan223/w2tch-netflix-pulse)
 *   Licencia: CC BY 4.0
 
-*Análisis realizado por Daniela Jimenez como parte de mi portafolio de análisis de datos deportivos.*
+*Análisis realizado por Daniela Jimenez como parte de mi portafolio de análisis de datos.*
 *18 de noviembre de 2026*
